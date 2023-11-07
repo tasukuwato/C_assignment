@@ -1,0 +1,4 @@
+﻿  ConsoleApp.c
+C:\Users\Green\OneDrive\デスクトップ\ConsoleApp\ConsoleApp\ConsoleApp.c(43,15): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Green\OneDrive\デスクトップ\ConsoleApp\ConsoleApp\ConsoleApp.c(52,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  ConsoleApp.vcxproj -> C:\Users\Green\OneDrive\デスクトップ\ConsoleApp\ConsoleApp\Debug\ConsoleApp.exe

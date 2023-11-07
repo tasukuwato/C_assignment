@@ -1,0 +1,6 @@
+﻿  ConsoleApp.c
+C:\Users\Green\OneDrive\デスクトップ\ConsoleApp\ConsoleApp.c(38,9): warning C4566: ユニバーサル文字名 '\u00A5' によって表示されている文字は、現在のコード ページ (932) で表示できません
+C:\Users\Green\OneDrive\デスクトップ\ConsoleApp\ConsoleApp.c(39,9): warning C4566: ユニバーサル文字名 '\u00A5' によって表示されている文字は、現在のコード ページ (932) で表示できません
+C:\Users\Green\OneDrive\デスクトップ\ConsoleApp\ConsoleApp.c(42,9): warning C4566: ユニバーサル文字名 '\u00A5' によって表示されている文字は、現在のコード ページ (932) で表示できません
+C:\Users\Green\OneDrive\デスクトップ\ConsoleApp\ConsoleApp.c(43,9): warning C4566: ユニバーサル文字名 '\u00A5' によって表示されている文字は、現在のコード ページ (932) で表示できません
+  ConsoleApp.vcxproj -> C:\Users\Green\OneDrive\デスクトップ\ConsoleApp\Debug\ConsoleApp.exe
